@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012484315207",
+    "project_id": "snakegame-ead3e",
+    "storage_bucket": "snakegame-ead3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012484315207:android:707d3ea7b0ccb863b9b962",
+        "android_client_info": {
+          "package_name": "com.example.snake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh0CsHA43fU4S4V28kN8oxhRhxrEStySY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
