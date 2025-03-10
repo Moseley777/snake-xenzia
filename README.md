@@ -1,6 +1,10 @@
 # snake
 
-A new Flutter project.
+A classic 2D snake game with stream controlers
+Features:
+Multiplayer enabled with highscores being updated from firebase backend
+Collision detection.
+
 
 ## Getting Started
 
