@@ -5,6 +5,8 @@ Features:
 Multiplayer enabled with highscores being updated from firebase backend
 Collision detection.
 
+ https://snakegame-ead3e.web.app
+
 
 ## Getting Started
 
